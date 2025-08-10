@@ -1,0 +1,402 @@
+2025-08-09 17:34:47,489 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/setMyCommands "HTTP/1.1 200 OK"
+2025-08-09 17:34:47,774 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/getMe "HTTP/1.1 200 OK"
+2025-08-09 17:34:48,059 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteWebhook "HTTP/1.1 200 OK"
+2025-08-09 17:34:48,060 - telegram.ext.Application - INFO - Application started
+2025-08-09 17:34:52,468 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/getUpdates "HTTP/1.1 200 OK"
+2025-08-09 17:34:52,947 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/sendMessage "HTTP/1.1 200 OK"
+2025-08-09 17:35:02,751 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/getUpdates "HTTP/1.1 200 OK"
+2025-08-09 17:35:08,190 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/getUpdates "HTTP/1.1 200 OK"
+2025-08-09 17:35:08,191 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-08-09 17:35:08,191 - telegram.ext.Application - INFO - Application.stop() complete
+2025-08-09 17:35:11,384 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/setMyCommands "HTTP/1.1 200 OK"
+2025-08-09 17:35:11,667 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/getMe "HTTP/1.1 200 OK"
+2025-08-09 17:35:11,954 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteWebhook "HTTP/1.1 200 OK"
+2025-08-09 17:35:11,955 - telegram.ext.Application - INFO - Application started
+2025-08-09 17:35:19,072 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/getUpdates "HTTP/1.1 200 OK"
+2025-08-09 17:35:19,074 - __main__ - INFO - Bot started
+2025-08-09 17:35:20,097 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/sendMessage "HTTP/1.1 200 OK"
+2025-08-09 17:35:21,648 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/getUpdates "HTTP/1.1 200 OK"
+2025-08-09 17:35:21,650 - __main__ - INFO - Help command invoked
+2025-08-09 17:35:21,650 - __main__ - INFO - Header: Here are the commands you can use:
+2025-08-09 17:35:21,650 - __main__ - INFO - Subheader: 1. /start - Start the bot
+2. /help - Get help information
+3. /clear - Clear the chat
+4. /ask - Ask a question
+2025-08-09 17:35:22,122 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/sendMessage "HTTP/1.1 200 OK"
+2025-08-09 17:35:23,772 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/getUpdates "HTTP/1.1 200 OK"
+2025-08-09 17:35:24,219 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 200 OK"
+2025-08-09 17:35:24,662 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 200 OK"
+2025-08-09 17:35:25,117 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 200 OK"
+2025-08-09 17:35:25,561 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 200 OK"
+2025-08-09 17:35:26,012 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 200 OK"
+2025-08-09 17:35:26,463 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 200 OK"
+2025-08-09 17:35:26,917 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 200 OK"
+2025-08-09 17:35:27,368 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 200 OK"
+2025-08-09 17:35:27,818 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 200 OK"
+2025-08-09 17:35:28,111 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:28,390 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:28,676 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:28,964 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:29,278 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:29,557 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:29,837 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:30,119 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:30,406 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:30,685 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:30,964 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:31,242 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:31,519 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:31,796 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:32,076 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:32,355 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:32,707 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:32,989 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:33,167 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/getUpdates "HTTP/1.1 200 OK"
+2025-08-09 17:35:33,278 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:33,564 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:33,847 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:34,140 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:34,421 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:34,755 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:35,062 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:35,369 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:35,649 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:35,934 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:36,214 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:36,496 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:36,791 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:37,068 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:37,347 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:37,725 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:38,006 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:38,285 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:38,645 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:38,954 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:39,233 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:39,529 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:39,979 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:40,284 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:40,592 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:41,002 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:41,308 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:41,616 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:41,898 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:42,231 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:42,513 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:42,844 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:43,120 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:43,398 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:43,449 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/getUpdates "HTTP/1.1 200 OK"
+2025-08-09 17:35:43,678 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:43,977 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:44,278 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:44,559 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:44,997 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:45,284 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:45,562 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:45,838 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:46,233 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:46,509 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:46,793 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:47,078 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:47,355 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:47,636 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:47,919 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:48,203 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:48,483 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:48,770 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:49,048 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:49,326 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:49,605 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:49,881 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:50,217 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:50,497 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:50,832 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:51,112 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:51,390 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:51,754 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:52,036 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:52,318 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:52,596 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:52,881 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:53,161 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:53,438 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:53,716 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:53,729 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/getUpdates "HTTP/1.1 200 OK"
+2025-08-09 17:35:53,996 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:54,330 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:55,167 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:55,609 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-09 17:35:55,611 - __main__ - INFO - Bot started
+2025-08-09 17:35:56,069 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/sendMessage "HTTP/1.1 200 OK"
+2025-08-09 17:36:04,010 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/getUpdates "HTTP/1.1 200 OK"
+2025-08-09 17:36:14,292 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/getUpdates "HTTP/1.1 200 OK"
+2025-08-09 17:36:23,765 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/getUpdates "HTTP/1.1 200 OK"
+2025-08-09 17:36:23,767 - __main__ - INFO - Help command invoked
+2025-08-09 17:36:23,767 - __main__ - INFO - Header: Here are the commands you can use:
+2025-08-09 17:36:23,767 - __main__ - INFO - Subheader: 1. /start - Start the bot
+2. /help - Get help information
+3. /clear - Clear the chat
+4. /ask - Ask a question
+2025-08-09 17:36:24,798 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/sendMessage "HTTP/1.1 200 OK"
+2025-08-09 17:36:27,188 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/getUpdates "HTTP/1.1 200 OK"
+2025-08-09 17:36:27,661 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/sendMessage "HTTP/1.1 200 OK"
+2025-08-09 17:36:32,381 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/getUpdates "HTTP/1.1 200 OK"
+2025-08-09 17:36:32,845 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/sendMessage "HTTP/1.1 200 OK"
+2025-08-09 17:36:35,686 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/getUpdates "HTTP/1.1 200 OK"
+2025-08-09 17:36:36,203 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/sendMessage "HTTP/1.1 200 OK"
+2025-08-09 17:36:45,969 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/getUpdates "HTTP/1.1 200 OK"
+2025-08-09 17:36:56,255 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/getUpdates "HTTP/1.1 200 OK"
+2025-08-09 17:37:06,535 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/getUpdates "HTTP/1.1 200 OK"
+2025-08-09 17:37:16,824 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/getUpdates "HTTP/1.1 200 OK"
+2025-08-09 17:37:27,111 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/getUpdates "HTTP/1.1 200 OK"
+2025-08-09 17:37:37,396 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/getUpdates "HTTP/1.1 200 OK"
+2025-08-09 17:37:47,679 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/getUpdates "HTTP/1.1 200 OK"
+2025-08-09 17:37:57,963 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/getUpdates "HTTP/1.1 200 OK"
+2025-08-09 17:38:08,243 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/getUpdates "HTTP/1.1 200 OK"
+2025-08-09 17:38:18,534 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/getUpdates "HTTP/1.1 200 OK"
+2025-08-09 17:38:26,745 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/getUpdates "HTTP/1.1 200 OK"
+2025-08-09 17:38:26,746 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-08-09 17:38:26,746 - telegram.ext.Application - INFO - Application.stop() complete
+2025-08-09 17:40:36,963 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/setMyCommands "HTTP/1.1 200 OK"
+2025-08-09 17:40:37,245 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/getMe "HTTP/1.1 200 OK"
+2025-08-09 17:40:37,246 - __main__ - ERROR - WEBHOOK_URL not set in environment variables
+2025-08-09 17:40:37,369 - asyncio - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-16' coro=<Server.serve() done, defined at /opt/miniconda3/lib/python3.12/site-packages/uvicorn/server.py:67> exception=SystemExit(1)>
+Traceback (most recent call last):
+  File "/opt/miniconda3/lib/python3.12/site-packages/uvicorn/server.py", line 162, in startup
+    server = await loop.create_server(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/lib/python3.12/asyncio/base_events.py", line 1584, in create_server
+    raise OSError(err.errno, msg) from None
+OSError: [Errno 48] error while attempting to bind on address ('0.0.0.0', 8000): [errno 48] address already in use
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/opt/miniconda3/lib/python3.12/threading.py", line 1075, in _bootstrap_inner
+    self.run()
+  File "/opt/miniconda3/lib/python3.12/threading.py", line 1012, in run
+    self._target(*self._args, **self._kwargs)
+  File "/Users/thoeurnratha/Documents/m1/data-analysis/telegrame_bot/main.py", line 163, in run_fastapi
+    uvicorn.run(fastapi_app, host="0.0.0.0", port=int(os.getenv("PORT", 8000)))
+  File "/opt/miniconda3/lib/python3.12/site-packages/uvicorn/main.py", line 577, in run
+    server.run()
+  File "/opt/miniconda3/lib/python3.12/site-packages/uvicorn/server.py", line 65, in run
+    return asyncio.run(self.serve(sockets=sockets))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/lib/python3.12/site-packages/nest_asyncio.py", line 30, in run
+    return loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/lib/python3.12/site-packages/nest_asyncio.py", line 92, in run_until_complete
+    self._run_once()
+  File "/opt/miniconda3/lib/python3.12/site-packages/nest_asyncio.py", line 133, in _run_once
+    handle._run()
+  File "/opt/miniconda3/lib/python3.12/asyncio/events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+  File "/opt/miniconda3/lib/python3.12/asyncio/tasks.py", line 396, in __wakeup
+    self.__step()
+  File "/opt/miniconda3/lib/python3.12/asyncio/tasks.py", line 303, in __step
+    self.__step_run_and_handle_result(exc)
+  File "/opt/miniconda3/lib/python3.12/asyncio/tasks.py", line 314, in __step_run_and_handle_result
+    result = coro.send(None)
+             ^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/lib/python3.12/site-packages/uvicorn/server.py", line 69, in serve
+    await self._serve(sockets)
+  File "/opt/miniconda3/lib/python3.12/site-packages/uvicorn/server.py", line 84, in _serve
+    await self.startup(sockets=sockets)
+  File "/opt/miniconda3/lib/python3.12/site-packages/uvicorn/server.py", line 172, in startup
+    sys.exit(1)
+SystemExit: 1
+2025-08-09 17:40:38,027 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/setMyCommands "HTTP/1.1 200 OK"
+2025-08-09 17:40:38,310 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/getMe "HTTP/1.1 200 OK"
+2025-08-09 17:40:38,311 - __main__ - ERROR - WEBHOOK_URL not set in environment variables
+2025-08-09 17:42:44,423 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/setMyCommands "HTTP/1.1 200 OK"
+2025-08-09 17:42:44,705 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/getMe "HTTP/1.1 200 OK"
+2025-08-09 17:42:45,058 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/setWebhook "HTTP/1.1 200 OK"
+2025-08-09 17:42:45,059 - __main__ - INFO - Webhook set to https://my-telegram-bot.streamlit.app/webhook/webhook
+2025-08-09 17:49:46,988 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/setMyCommands "HTTP/1.1 200 OK"
+2025-08-09 17:49:47,269 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/getMe "HTTP/1.1 200 OK"
+2025-08-09 17:49:48,914 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteWebhook "HTTP/1.1 200 OK"
+2025-08-09 17:49:48,915 - __main__ - INFO - Webhook disabled
+2025-08-09 17:49:48,916 - __main__ - ERROR - Error in polling: set_wakeup_fd only works in main thread of the main interpreter
+2025-08-09 17:50:26,803 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/setMyCommands "HTTP/1.1 200 OK"
+2025-08-09 17:50:27,839 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/getMe "HTTP/1.1 200 OK"
+2025-08-09 17:50:28,124 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteWebhook "HTTP/1.1 200 OK"
+2025-08-09 17:50:28,125 - __main__ - INFO - Webhook disabled
+2025-08-09 17:50:28,126 - __main__ - ERROR - Error in polling: set_wakeup_fd only works in main thread of the main interpreter
+2025-08-09 17:51:12,740 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/setMyCommands "HTTP/1.1 200 OK"
+2025-08-09 17:51:12,908 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/setMyCommands "HTTP/1.1 200 OK"
+2025-08-09 17:51:13,023 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/getMe "HTTP/1.1 200 OK"
+2025-08-09 17:51:13,188 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/getMe "HTTP/1.1 200 OK"
+2025-08-09 17:51:13,308 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteWebhook "HTTP/1.1 200 OK"
+2025-08-09 17:51:13,308 - __main__ - INFO - Webhook disabled
+2025-08-09 17:51:13,310 - __main__ - ERROR - Error in polling: set_wakeup_fd only works in main thread of the main interpreter
+2025-08-09 17:51:13,466 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteWebhook "HTTP/1.1 200 OK"
+2025-08-09 17:51:13,467 - __main__ - INFO - Webhook disabled
+2025-08-09 17:51:13,495 - __main__ - ERROR - Error in polling: set_wakeup_fd only works in main thread of the main interpreter
+2025-08-09 17:51:13,816 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/setMyCommands "HTTP/1.1 200 OK"
+2025-08-09 17:51:14,096 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/getMe "HTTP/1.1 200 OK"
+2025-08-09 17:51:15,074 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteWebhook "HTTP/1.1 200 OK"
+2025-08-09 17:51:15,075 - __main__ - INFO - Webhook disabled
+2025-08-09 17:51:15,075 - __main__ - ERROR - Error in polling: set_wakeup_fd only works in main thread of the main interpreter
+2025-08-09 17:53:32,824 - __main__ - INFO - Setting up bot...
+2025-08-09 17:53:32,837 - __main__ - INFO - Setting bot commands...
+2025-08-09 17:53:34,404 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/setMyCommands "HTTP/1.1 200 OK"
+2025-08-09 17:53:34,405 - __main__ - INFO - Initializing application...
+2025-08-09 17:53:34,682 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/getMe "HTTP/1.1 200 OK"
+2025-08-09 17:53:34,684 - __main__ - INFO - Disabling webhook...
+2025-08-09 17:53:34,962 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteWebhook "HTTP/1.1 200 OK"
+2025-08-09 17:53:34,963 - __main__ - INFO - Webhook disabled
+2025-08-09 17:53:34,963 - __main__ - INFO - Starting polling...
+2025-08-09 17:53:34,963 - __main__ - ERROR - Error in polling: set_wakeup_fd only works in main thread of the main interpreter
+2025-08-09 17:53:35,163 - __main__ - INFO - Setting up bot...
+2025-08-09 17:53:35,176 - __main__ - INFO - Setting bot commands...
+2025-08-09 17:53:38,120 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/setMyCommands "HTTP/1.1 200 OK"
+2025-08-09 17:53:38,121 - __main__ - INFO - Initializing application...
+2025-08-09 17:53:38,483 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/getMe "HTTP/1.1 200 OK"
+2025-08-09 17:53:38,484 - __main__ - INFO - Disabling webhook...
+2025-08-09 17:53:38,788 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteWebhook "HTTP/1.1 200 OK"
+2025-08-09 17:53:38,789 - __main__ - INFO - Webhook disabled
+2025-08-09 17:53:38,789 - __main__ - INFO - Starting polling...
+2025-08-09 17:53:38,789 - __main__ - ERROR - Error in polling: set_wakeup_fd only works in main thread of the main interpreter
+2025-08-09 17:54:57,520 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/setMyCommands "HTTP/1.1 200 OK"
+2025-08-09 17:54:58,308 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/setMyCommands "HTTP/1.1 200 OK"
+2025-08-09 17:56:03,367 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/setMyCommands "HTTP/1.1 200 OK"
+2025-08-09 17:56:04,164 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/setMyCommands "HTTP/1.1 200 OK"
+2025-08-09 17:56:05,774 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/setMyCommands "HTTP/1.1 200 OK"
+2025-08-09 17:56:25,390 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/setMyCommands "HTTP/1.1 200 OK"
+2025-08-09 17:56:27,448 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/getMe "HTTP/1.1 200 OK"
+2025-08-09 17:56:28,572 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteWebhook "HTTP/1.1 200 OK"
+2025-08-09 17:56:28,575 - telegram.ext.Application - INFO - Application started
+2025-08-09 17:56:31,723 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/getUpdates "HTTP/1.1 200 OK"
+2025-08-09 17:56:32,191 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/sendMessage "HTTP/1.1 200 OK"
+2025-08-09 17:56:32,655 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/sendMessage "HTTP/1.1 200 OK"
+2025-08-09 17:56:42,089 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/getUpdates "HTTP/1.1 200 OK"
+2025-08-09 17:56:52,369 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/getUpdates "HTTP/1.1 200 OK"
+2025-08-10 12:26:33,094 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/setMyCommands "HTTP/1.1 200 OK"
+2025-08-10 12:26:38,344 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/setMyCommands "HTTP/1.1 200 OK"
+2025-08-10 12:28:05,427 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/setMyCommands "HTTP/1.1 200 OK"
+2025-08-10 12:28:05,720 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/getMe "HTTP/1.1 200 OK"
+2025-08-10 12:28:06,028 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteWebhook "HTTP/1.1 200 OK"
+2025-08-10 12:28:06,031 - telegram.ext.Application - INFO - Application started
+2025-08-10 12:28:06,950 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/getUpdates "HTTP/1.1 200 OK"
+2025-08-10 12:28:07,419 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/sendMessage "HTTP/1.1 200 OK"
+2025-08-10 12:28:11,148 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/getUpdates "HTTP/1.1 200 OK"
+2025-08-10 12:28:11,150 - __main__ - INFO - Help command invoked
+2025-08-10 12:28:11,150 - __main__ - INFO - Header: Here are the commands you can use:
+2025-08-10 12:28:11,150 - __main__ - INFO - Subheader: 1. /start - Start the bot
+2. /help - Get help information
+3. /clear - Clear the chat
+4. /ask - Ask a question
+2025-08-10 12:28:11,613 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/sendMessage "HTTP/1.1 200 OK"
+2025-08-10 12:28:14,323 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/getUpdates "HTTP/1.1 200 OK"
+2025-08-10 12:28:14,769 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 200 OK"
+2025-08-10 12:28:15,217 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 200 OK"
+2025-08-10 12:28:15,661 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 200 OK"
+2025-08-10 12:28:16,109 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 200 OK"
+2025-08-10 12:28:16,555 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 200 OK"
+2025-08-10 12:28:17,190 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 200 OK"
+2025-08-10 12:28:17,809 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 200 OK"
+2025-08-10 12:28:18,468 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 200 OK"
+2025-08-10 12:28:19,140 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 200 OK"
+2025-08-10 12:28:19,957 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 200 OK"
+2025-08-10 12:28:20,671 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 200 OK"
+2025-08-10 12:28:21,416 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 200 OK"
+2025-08-10 12:28:22,104 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 200 OK"
+2025-08-10 12:28:22,821 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 200 OK"
+2025-08-10 12:28:23,539 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 200 OK"
+2025-08-10 12:28:24,255 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 200 OK"
+2025-08-10 12:28:24,610 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/getUpdates "HTTP/1.1 200 OK"
+2025-08-10 12:28:24,898 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 200 OK"
+2025-08-10 12:28:25,648 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 200 OK"
+2025-08-10 12:28:26,272 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 200 OK"
+2025-08-10 12:28:26,609 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:26,916 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:27,468 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:27,745 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:28,044 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:28,320 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:28,658 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:28,965 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:29,271 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:29,548 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:29,886 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:30,164 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:30,443 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:30,726 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:31,005 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:31,322 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:31,627 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:31,904 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:32,241 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:32,522 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:32,800 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:33,077 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:33,355 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:33,633 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:33,920 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:34,200 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:34,479 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:34,757 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:34,894 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/getUpdates "HTTP/1.1 200 OK"
+2025-08-10 12:28:35,034 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:35,311 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:35,621 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:35,900 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:36,179 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:36,458 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:36,736 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:37,019 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:37,298 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:37,578 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:37,857 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:38,181 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:38,490 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:38,796 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:39,078 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:39,357 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:39,637 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:39,922 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:40,202 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:40,481 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:40,760 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:41,050 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:41,329 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:41,608 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:41,888 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:42,173 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:42,452 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:42,730 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:43,008 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:43,301 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:43,581 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:43,861 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:44,142 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:44,421 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:44,734 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:45,013 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:45,179 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/getUpdates "HTTP/1.1 200 OK"
+2025-08-10 12:28:45,292 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:45,571 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:45,856 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:46,135 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:46,415 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:46,694 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:46,974 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:47,258 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:47,539 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:47,909 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:48,217 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:48,497 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:49,351 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:49,643 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:49,958 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:50,266 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:50,547 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/deleteMessage "HTTP/1.1 400 Bad Request"
+2025-08-10 12:28:55,466 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/getUpdates "HTTP/1.1 200 OK"
+2025-08-10 12:29:05,830 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/getUpdates "HTTP/1.1 200 OK"
+2025-08-10 12:29:16,119 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/getUpdates "HTTP/1.1 200 OK"
+2025-08-10 12:29:19,570 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8495030987:AAHJkm9bD_ZgQ3qddJDcShUsTFe8iqM7lKM/getUpdates "HTTP/1.1 200 OK"
+2025-08-10 12:29:19,572 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-08-10 12:29:19,572 - telegram.ext.Application - INFO - Application.stop() complete
