@@ -1,0 +1,20 @@
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore build folders
+/dist
+/node_modules
+/build
+
+# Ignore environment/config files
+.env
+.env.local
+
+# Ignore logs
+*.log
+*.bot_logs.log
+
+# Ignore temporary files
+*.tmp
+*.swp
